@@ -12,14 +12,10 @@ Aplicação em Python, feita em dupla, para cadastrar, listar, buscar e remover 
 ## Como executar
 
 ```
-python agenda-contatos.py
+python agenda.py
 ´´´
-#Autores
 
-- Ana Júlia Rossi Melgaço - @anajuliarossim
-- Bernardo Gonçalves da Silva Neto - @bBernardoneto
+##Autores
 
-##Sobre o projeto
-
-Projeto desenvolvido para a disciplina Projeto em Ciência de Dados I, como atividade prática de introdução ao GitHub (Issues, Projects, Pull Requests, Actions e Wiki).
-
+-Ana Júlia Rossi Melgaço - @anajuliarossim
+-Bernardo Gonçalves da Silva Neto - @BernardoNeto
