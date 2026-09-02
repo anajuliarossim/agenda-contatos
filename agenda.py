@@ -4,7 +4,13 @@ contatos = []
 
 
 def cadastrar_contato():
-    pass
+    def cadastrar_contato():
+    nome = input("Nome: ")
+    telefone = input("Telefone: ")
+    email = input("Email: ")
+    contato = {"nome": nome, "telefone": telefone, "email": email}
+    contatos.append(contato)
+    print("Contato cadastrado com sucesso!")
 
 
 def listar_contatos():
